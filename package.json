@@ -1,11 +1,14 @@
 {
   "name": "uniev",
   "displayName": "uniev",
-  "description": "",
+  "publisher": "uniev",
+  "description": "uniev TODO",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.77.0"
   },
+  "repository": "github:uniev/uniev-vscode",
+  "author": "Li Shuzhi <liszt21@qq.com>",
   "categories": [
     "Other"
   ],
