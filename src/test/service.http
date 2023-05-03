@@ -1,0 +1,9 @@
+POST http://localhost:19527 HTTP/1.1
+content-type: application/json
+
+{
+    "method": "openFile",
+    "id": 1,
+    "jsonrpc": "2.0",
+    "params": {"path": "C://Users//liszt//Projects//Uniev//packages//uniev-vscode//src//test//service.http", "line": 5, "column": 9}
+}
